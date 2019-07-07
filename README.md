@@ -1,5 +1,5 @@
 # Node.js Demo Application
-yoni Node.js basic application useful for demos and examples
+yonid Node.js basic application useful for demos and examples
 
 &nbsp;
 
